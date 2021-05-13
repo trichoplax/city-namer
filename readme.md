@@ -28,7 +28,8 @@ Call with or without arguments.
 ```python
 from city_namer import city_names
 
-print(city_names())
+for city in city_names():
+    print(city)
 ```
 
 Generates 1 city name by default.
