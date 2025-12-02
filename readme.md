@@ -1,4 +1,5 @@
 # City namer
+Generate city names by removing "city" or "sity" from the end of randomly selected English words.
 
 Run from the terminal or import into your own code.
 
@@ -46,4 +47,4 @@ Generates 5 city names.
 
 ## Limitation
 
-Note that the number of city names available is limited by the number of words ending with "city", and beyond this limit specifying a higher number will not generate more words.
+Note that the number of city names available is limited by the number of words ending with "city" or "sity", and beyond this limit specifying a higher number will not generate more words.
